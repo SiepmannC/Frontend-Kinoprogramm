@@ -1,0 +1,98 @@
+.Headline1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 7vw;
+    margin-right: 3vw;
+    margin-left: 4vw;
+    margin-bottom: 0.5vw;
+    color: #3644d0;
+    }
+    .Headline2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6vw;
+    margin-right: 3vw;
+    margin-left: 3.7vw;
+    margin-bottom: 0.5vw;
+    }
+    .Headline3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5vw;
+    margin-right: 3vw;
+    margin-left: 3.4vw;
+    margin-bottom: 0.5vw;
+    }
+    .Headline4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4vw;
+    margin-right: 3vw;
+    margin-left: 3vw;
+    margin-bottom: 0.5vw;
+    }
+
+
+
+.Text-Black{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5vw;
+    margin-right: 2vw;
+    margin-left: 1.5vw;
+    margin-bottom: 0.3vw;
+}
+.Text-White{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5vw;
+    margin-right: 2vw;
+    margin-left: 1.5vw;
+    margin-bottom: 0.3vw;
+    color: var(--Weiß);
+}
+.Text-Red{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5vw;
+    margin-right: 2vw;
+    margin-left: 1.5vw;
+    margin-bottom: 0.3vw;
+    color: var(--Selektiert);
+}
+.Text-Blue{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5vw;
+    margin-right: 2vw;
+    margin-left: 1.5vw;
+    margin-bottom: 0.3vw;
+    color: var(--SchriftBlau);
+}
+
+:root {
+    --Hintergrund : #818181 ;
+    --Schwarz: #000000;
+    --Weiß: #f6f6f6;
+    --HellHintergrund: #b4b4b6 ;
+    --Selektiert: #ff0000;
+    --SchriftBlau : #297ff0;
+}
+
+.bg-Hintergrund {
+    background-color: var(--Hintergrund);
+}
+.bg-Schwarz {
+    background-color: var(--Schwarz);
+    padding: 2vw;
+}
+.bg-Weiß {
+    background-color: var(--Weiß);
+    padding: 2vw;
+}
+.bg-HellHintergrund {
+    background-color: var(--HellHintergrund);
+    margin-left: 10%; 
+    margin-right: 10%;
+    padding: 2vw;
+}
+.bg-Selektiert {
+    background-color: var(--Selektiert);
+}
+
+
+
+
+
