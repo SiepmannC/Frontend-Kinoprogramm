@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from "./components/Navbar/Navbar";
 import Movies from "./components/Movies/Movies";
 import API from "./components/API_Test/API";
-import './App.css';
+import './App.css'; 
 
 
 function App() {
