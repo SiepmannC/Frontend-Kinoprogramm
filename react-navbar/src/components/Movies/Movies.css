@@ -1,0 +1,20 @@
+.SearchBar{
+    
+    
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 4vw;
+        margin-right: 3vw;
+        margin-left: 3vw;
+        margin-bottom: 0.5vw;
+        width: 70%;
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        margin-left: 15%;
+        margin-top: 3rem;
+        }
+
+.MovieBanner{
+    width: 40%;
+    
+}        
